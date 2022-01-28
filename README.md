@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @hunchoweb
 - 👀 I’m interested in front-end web development
-- 🌱 I’m currently learning CSS & BOOTSTRAP
+- 🌱 I just finished a udemy course on HTML and CSS
+- I'm currently building a project just to test my knowledge so far
 - 💞️ I’m looking to collaborate on all kind of projects that require my skillset
+- I'm open to learning always
 - 📫 How to reach me: Twitter: @hunchoweb
 
 <!---
